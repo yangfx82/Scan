@@ -1,0 +1,8 @@
+# 忽略证书文件
+/cert/*.pem
+
+# 忽略依赖目录
+/node_modules
+
+# 忽略数据库文件
+/server/db/*.db
